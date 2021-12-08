@@ -43,6 +43,10 @@
 </p>
 
 <p align = "center">
+<img src="https://github.com/iizdebski/usermanagementportal/blob/main/supportPortalAngularJWTBackend/supportportal/images/support_07.JPG">
+</p>
+
+<p align = "center">
 <img src="https://github.com/iizdebski/usermanagementportal/blob/main/supportPortalAngularJWTBackend/supportportal/images/support_08.JPG">
 </p>
 
