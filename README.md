@@ -4,7 +4,7 @@
 
 * **Java, SpringBoot**
 * **Angular**
-* ** JavaScript, TypeScript, HTML, CSS**
+* **JavaScript, TypeScript, HTML, CSS**
 * **MySQL**
 ---------------------------------------------------------------------
 
