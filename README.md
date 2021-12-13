@@ -9,8 +9,7 @@
 ---------------------------------------------------------------------
 
 * **JSON Web Token (JWT)**
-* **Authentication**
-* **Authorization**
+* **Authentication / Authorization**
 * **Stateless Session Policy**
 * **User Security Roles**
 * **User Security Permissions**
