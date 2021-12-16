@@ -1,6 +1,6 @@
 # User Management Portal
 
-## ***Technologies used:***
+## ***Technologies:***
 
 * **Java, SpringBoot**
 * **Angular**
@@ -16,6 +16,11 @@
 * **Migration of Brute Force Attack**
 * **Password Encryption**
 * **Role-based Access Control**
+* **Roles: User, HR, Admin, Super Admin**
+* **User can only read**
+* **HR can read, create**
+* **Admin can read, create, update**
+* **Super Admin can read, create, update, delete**
 
 <p align = "center">
 <img src="https://github.com/iizdebski/usermanagementportal/blob/main/supportPortalAngularJWTBackend/supportportal/images/support_01.JPG">
